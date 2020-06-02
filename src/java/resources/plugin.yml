@@ -1,0 +1,4 @@
+main: me.impdevmc.antipridefall.FuckPrideFall
+version: Pride
+name: AntiPrideFall
+depend: [ProtocolLib]
